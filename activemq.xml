@@ -1,0 +1,7 @@
+<destinationInterceptors>
+    <virtualDestinationInterceptor>
+        <virtualDestinations>
+            <virtualTopic name=">" prefix="VirtualTopic.*." selectorAware="false"/>
+        </virtualDestinations>
+    </virtualDestinationInterceptor>
+</destinationInterceptors>
